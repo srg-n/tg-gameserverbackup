@@ -1,6 +1,6 @@
 # tg-gameserverbackup
 
-Requires pip3, python3 and greater
+Requires pip3, python3 or greater
 
 # Installation
 pip3 install telepot
